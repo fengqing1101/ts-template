@@ -1,6 +1,6 @@
 {
-  "name": "ts-template-cli",
-  "version": "1.0.0",
+  "name": "ts-tpl-cli",
+  "version": "1.0.1",
   "description": "快速创建一个基于ts编写的javascript项目",
   "main": "index.js",
   "type": "module",

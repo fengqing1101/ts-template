@@ -12,6 +12,7 @@
   },
   "author": "",
   "license": "ISC",
+  "homepage": "https://github.com/fengqing1101/ts-template",
   "dependencies": {
     "commander": "^12.1.0",
     "copy-dir": "^1.3.0",

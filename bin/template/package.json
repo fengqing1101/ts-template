@@ -2,6 +2,7 @@
   "name": "ts-template",
   "version": "1.0.0",
   "description": "模板",
+  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",

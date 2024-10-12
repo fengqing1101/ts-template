@@ -1,9 +1,10 @@
 {
   "compilerOptions": {
-    "target": "es6",
-    "module": "UMD",
+    "target": "es2015",
+    "module": "CommonJS",
     "declaration": true,
-    "outDir": "./dist",
+    "declarationDir": "./dist",
+    "outDir": "./temp/cjs",
     "rootDir": "./src",
     "strict": true
   },
